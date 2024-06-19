@@ -1,5 +1,5 @@
 
-
+# ShoeSpot
 **Shoe Spot:** The ultimate Shoe Shopping App
 
 ## Introduction
@@ -35,4 +35,4 @@
 * **Realtime Data Updates:**  Thanks to Firebase Realtime Database, all the data, from shoe availability to prices, is updated in real-time, ensuring you have the latest information at all times.
 
 
-# ShoeSpot
+
