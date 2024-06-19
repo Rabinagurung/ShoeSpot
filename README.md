@@ -1,4 +1,4 @@
-# Title
+
 
 **Shoe Spot:** The ultimate Shoe Shopping App
 
